@@ -39,17 +39,17 @@ Tópicos Avançados
 Gerenciamento de módulos com ES6 Modules
 Manipulação de APIs externas
 Introdução a frameworks como React ou Vue.js
-Como Usar Este Repositório
+## Como Usar Este Repositório
 Clone ou faça o download deste repositório para o seu computador.
 Navegue pelas pastas para encontrar os materiais das diferentes seções do curso.
 Cada seção pode conter arquivos de aula, exercícios práticos e projetos.
 Leia os arquivos de aula para entender os conceitos abordados.
 Complete os exercícios para praticar o que aprendeu.
 Explore os projetos para aplicar seus conhecimentos em situações do mundo real.
-Contribuição
+## Contribuição
 Se você encontrar erros, tiver sugestões de melhoria ou quiser adicionar mais conteúdo, fique à vontade para contribuir para este repositório! Basta fazer um fork, fazer suas alterações e enviar um pull request. Sua contribuição é muito bem-vinda e ajudará a melhorar este curso para todos.
 
-Recursos Adicionais
+## Recursos Adicionais
 Além dos materiais neste repositório, recomendamos também a consulta a recursos externos, como documentação oficial do JavaScript, tutoriais online e fóruns de desenvolvimento. A prática constante e a exploração independente são essenciais para se tornar um programador JavaScript habilidoso.
 
 Aproveite o curso e boa jornada para se tornar um mestre em JavaScript!
