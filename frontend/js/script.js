@@ -1,16 +1,5 @@
-// Boolean
-// Numerico
-// String
+let User = 'John Doe';
 
-// Const - Constante, ou seja [NÃO MUDA NUNCA].  
-// Var   - Scopo global
-// Let   - Scopo Local
+console.log(`Usuário: ${ typeof(User) == 'string' ? 'Usuário Encontrado' : 'Http Error'}` )
 
 
-
-var joao = 1 < 2 ? 'João' : 'Maria'; // Operador Ternário
-
-
-
-
-console.log(joao);
